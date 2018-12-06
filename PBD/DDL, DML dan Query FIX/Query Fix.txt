@@ -1,0 +1,50 @@
+1. Menampilkan nama developer, kode rumah, harga rumah dan nama nasabah pengKredit berdasarkan harga termahal dari masing masing developer diurutkan dari terbesar berdasarkan harga
+
+SELECT nama_developer, id_rumah, harga_rumah, nama_nasabah
+FROM developer
+JOIN rumah USING(id_developer)
+JOIN kredit USING(id_rumah)
+JOIN transaksi USING(kode_kredit)
+JOIN nasabah USING(no_ktp_nasabah)
+WHERE (id_developer, harga_rumah) =ANY (SELECT id_developer, MAX(harga_rumah)
+                                        FROM rumah
+                                        GROUP BY id_developer)
+ORDER BY harga_rumah DESC;
+										
+
+=====================================										
+										
+2. Tampilkan id pegawai, nama pegawai, jumlah transaksi dan jumlah bayar yang dilayani oleh pegawai tersebut yang jumlah bayarnya lebih tinggi dari rata rata dari jumlah bayar semua transaksi diurutkan dari terbesar berdasarkan jumlah bayar
+
+SELECT id_pegawai, nama_pegawai, COUNT(kode_transaksi) AS jumlah_transaksi, jumlah_bayar
+FROM transaksi_detail
+JOIN pegawai_bank USING(id_pegawai)
+WHERE jumlah_bayar > (SELECT FLOOR(AVG(jumlah_bayar))
+                      FROM transaksi_detail)
+GROUP BY id_pegawai, nama_pegawai, jumlah_bayar
+ORDER BY jumlah_bayar DESC;
+
+
+=====================================	
+Irbah
+3. 
+
+
+
+
+
+=====================================	
+Moci
+4. 
+
+
+
+
+
+=====================================	
+Muh
+5. 
+
+
+
+

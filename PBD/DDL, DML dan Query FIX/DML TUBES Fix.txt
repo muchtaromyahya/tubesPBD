@@ -1,0 +1,266 @@
+﻿ALTER SESSION SET nls_date_format = 'DD-MM-YYYY';
+
+INSERT INTO developer(id_developer, nama_developer, alamat_developer, email_developer, no_telepon_developer)
+	VALUES('DEV4393258','Pt. Griya Omega Estetika','Komp Ruko Metro Indah Mall Blok E 5, Jatisari, Buahbatu, Kota Bandung, Jawa Barat','degreengranderesidence@yahoo.com','082151316135');
+INSERT INTO developer(id_developer, nama_developer, alamat_developer, email_developer, no_telepon_developer)
+	VALUES('DEV3469882','Pt. Sanggar Hurip','Jl Sanggar Kencana Xxvii Nomor 50, Jatisari, Buahbatu, Kota Bandung, Jawa Barat','pt.sanggarhurip@yahoo.co.id','085127312933');
+INSERT INTO developer(id_developer, nama_developer, alamat_developer, email_developer, no_telepon_developer)
+	VALUES('DEV7053687','Gandara Khoir','Jl. Tubagus Ismail Viii No.17 Bandung, Sekeloa, Coblong, Kota Bandung, Jawa Barat','gandara_astri_pakuon@yahoo.com','087577964865');
+INSERT INTO developer(id_developer, nama_developer, alamat_developer, email_developer, no_telepon_developer)
+	VALUES('DEV0073630','Anugerah Surya Cipta Mandiri','Jl. Tubagus Ismail Viii No.17 Bandung, Sekeloa, Coblong, Kota Bandung, Jawa Barat','bumicimahi@gmail.com','081224448819');
+INSERT INTO developer(id_developer, nama_developer, alamat_developer, email_developer, no_telepon_developer)
+	VALUES('DEV1004825','Kibar Buana Persada','Jl. Panaitan No.20 Bandung, Kebon Pisang, Sumur Bandung, Kota Bandung, Jawa Barat','kbp@buanakassiti.com','089275334305');
+INSERT INTO developer(id_developer, nama_developer, alamat_developer, email_developer, no_telepon_developer)
+	VALUES('DEV1490551','Titian Sakti','Jalan Soekarno Hattanomor 704a , Babakan Penghulu, Cinambo, Kota Bandung, Jawa Barat','thebillabongsoetaresidence@gmail.com','084127808372');
+INSERT INTO developer(id_developer, nama_developer, alamat_developer, email_developer, no_telepon_developer)
+	VALUES('DEV3754954','Pt. Cikal Buana Persada','Jalan Panjaitan No.20 , Mengger, Bandung Kidul, Kota Bandung, Jawa Barat','nmoertanto@gmail.com','081218837998');
+INSERT INTO developer(id_developer, nama_developer, alamat_developer, email_developer, no_telepon_developer)
+	VALUES('DEV0442178','Pt. Raja Prima Sumatera','Jl. A H Nasution No. 311, Cigending, Ujung Berung, Kota Bandung, Jawa Barat','berry.rahmat@rajasaland.com','085720555346');
+INSERT INTO developer(id_developer, nama_developer, alamat_developer, email_developer, no_telepon_developer)
+	VALUES('DEV5518128','Ed Centre Artamitra','Jl. Anggrek 11, Merdeka, Sumur Bandung, Braga, Sumur Bandung, Kota Bandung, Jawa Barat','wahyudi757@gmail.com','021278170124');
+INSERT INTO developer(id_developer, nama_developer, alamat_developer, email_developer, no_telepon_developer)
+	VALUES('DEV2535191','Graha Anugerah Nusantara Property','Jl. Peta, Ruko Kopo Plaza Blok E-7, Suka Asih, Bojongloa Kaler, Kota Bandung, Jawa Barat','pgg4n.sartika@gmail.com','089746042971');
+INSERT INTO developer(id_developer, nama_developer, alamat_developer, email_developer, no_telepon_developer)
+	VALUES('DEV0321684','Pillar Nusa Lima','JL. CIKUTRA NO. 217 KOTA BANDUNG, Cikutra, Cibeunying Kidul, Kota Bandung, Jawa Barat','hari.kusumah@rocketmail.com','081327210820');
+INSERT INTO developer(id_developer, nama_developer, alamat_developer, email_developer, no_telepon_developer)
+	VALUES('DEV3206448','Kalmar Jaya','JALAN CIKUTRA NOMOR 217 , Cikutra, Cibeunying Kidul, Kota Bandung, Jawa Barat','kalmar.land@yahoo.com','082214175304');
+INSERT INTO developer(id_developer, nama_developer, alamat_developer, email_developer, no_telepon_developer)
+	VALUES('DEV8062262','Pt. Restu Hutama Nusantara','JALAN GADING UTAMA BLOK A-1 NO. 1 SOEKARNO HATTA (GADING REGENSI), Ciseureuh, Regol, Kota Bandung, Jawa Barat','knoe.stieya@gmail.com','081842605744');
+INSERT INTO developer(id_developer, nama_developer, alamat_developer, email_developer, no_telepon_developer)
+	VALUES('DEV9974710','Pt. Dua Belas Corona Property','Ruko Metro Indah Mall Blok H37 Soekarno Hatta Bandung, Sekejati, Buahbatu, Kota Bandung, Jawa Barat','12coronaproperty@gmail.com','084612658952');
+INSERT INTO developer(id_developer, nama_developer, alamat_developer, email_developer, no_telepon_developer)
+	VALUES('DEV1395713','Buana Kassiti','GRAHA BUANA JL. PANAITAN NO 20 BANDUNG JAWA BARAT, Kebon Pisang, Sumur Bandung, Kota Bandung, Jawa Barat','cs@buanakassiti.com','081234264230');
+INSERT INTO developer(id_developer, nama_developer, alamat_developer, email_developer, no_telepon_developer)
+	VALUES('DEV9108418','Pt. Padmarani Putri','JALAN MELATI KEL. PASIRWANGI KEC. UJUNG BERUNG, Pasirwangi, Ujung Berung, Kota Bandung, Jawa Barat','griyaastri316@gmail.com','081312404068');
+INSERT INTO developer(id_developer, nama_developer, alamat_developer, email_developer, no_telepon_developer)
+	VALUES('DEV1657339','Pt. Multidaya Kharisma','Jalan Adiflora Raya No.1 Gedebage, Rancabolang, Gedebage, Kota Bandung, Jawa Barat','perumahan_bumiadipura@yahoo.com','086227534462');
+INSERT INTO developer(id_developer, nama_developer, alamat_developer, email_developer, no_telepon_developer)
+	VALUES('DEV4095320','Pt. Satria Putra Siliwangi','Jl. Cilengkrang 1, Cisurupan, Cibiru, Kota Bandung, Jawa Barat','mercedesbenzmb95@gmail.com','081320946708');
+INSERT INTO developer(id_developer, nama_developer, alamat_developer, email_developer, no_telepon_developer)
+	VALUES('DEV0452963','Pt. Kalmar','Jalan Cikuta 217 , Cikutra, Cibeunying Kidul, Kota Bandung, Jawa Barat','sekretaris@kalmar.co.id','081322217766');
+INSERT INTO developer(id_developer, nama_developer, alamat_developer, email_developer, no_telepon_developer)
+	VALUES('DEV0680226','Pt. Karunia Abadi Nuansa Indah','Jalan Otto Iskandar Dinata No.21A, Braga, Sumur Bandung, Kota Bandung, Jawa Bar','indah.asapratama@gmail.com','081224448819');
+	
+	
+	
+	
+	
+INSERT INTO rumah(id_rumah,luas_rumah,luas_tanah_rumah,harga_rumah,alamat_rumah,id_developer)
+    VALUES('RMH2913466',262,462,5500000000,'Dago Pakar, Bandung Utara','DEV4393258');
+INSERT INTO rumah(id_rumah,luas_rumah,luas_tanah_rumah,harga_rumah,alamat_rumah,id_developer)
+    VALUES('RMH9639462',55,70,777100000,'Beji,Depok','DEV3469882');
+INSERT INTO rumah(id_rumah,luas_rumah,luas_tanah_rumah,harga_rumah,alamat_rumah,id_developer)
+    VALUES('RMH7875533',370,216,4500000000,'Pasar Minggu, Jakarta Selatan','DEV7053687');
+INSERT INTO rumah(id_rumah,luas_rumah,luas_tanah_rumah,harga_rumah,alamat_rumah,id_developer)
+    VALUES('RMH5678177',1000,900,40000000000,'Pondok Indah, Jakarta Selatan','DEV0073630');
+INSERT INTO rumah(id_rumah,luas_rumah,luas_tanah_rumah,harga_rumah,alamat_rumah,id_developer)
+    VALUES('RMH9539337',695,405,8300000000,'Sentra Duta, Bandung Utara','DEV1004825');
+INSERT INTO rumah(id_rumah,luas_rumah,luas_tanah_rumah,harga_rumah,alamat_rumah,id_developer)
+    VALUES('RMH0705022',600,400,3200000000,'Cigadung, Bandung Utara','DEV1490551');
+INSERT INTO rumah(id_rumah,luas_rumah,luas_tanah_rumah,harga_rumah,alamat_rumah,id_developer)
+    VALUES('RMH4112328',100,45,260000000,'Arjasari, Bandung','DEV3754954');
+INSERT INTO rumah(id_rumah,luas_rumah,luas_tanah_rumah,harga_rumah,alamat_rumah,id_developer)
+    VALUES('RMH0827651',45,90,535000000,'Cisaranten,Arcamanik,Bandung','DEV0442178');
+INSERT INTO rumah(id_rumah,luas_rumah,luas_tanah_rumah,harga_rumah,alamat_rumah,id_developer)
+    VALUES('RMH9709873',400,362,26000000000,'Menteng, Jakarta Selatan','DEV5518128');
+INSERT INTO rumah(id_rumah,luas_rumah,luas_tanah_rumah,harga_rumah,alamat_rumah,id_developer)
+    VALUES('RMH2975740',190,150,2550000000,'Sudirman, Bandung','DEV2535191');
+INSERT INTO rumah(id_rumah,luas_rumah,luas_tanah_rumah,harga_rumah,alamat_rumah,id_developer)
+    VALUES('RMH8172034',500,350,6800000000,'Pasteur, Bandung','DEV0321684');
+INSERT INTO rumah(id_rumah,luas_rumah,luas_tanah_rumah,harga_rumah,alamat_rumah,id_developer)
+    VALUES('RMH8390820',90,72,846000000,'Padasuka, Bandung','DEV3206448');
+INSERT INTO rumah(id_rumah,luas_rumah,luas_tanah_rumah,harga_rumah,alamat_rumah,id_developer)
+    VALUES('RMH7896815',60,91,680000000,'Taman Kopo Indah, Bandung','DEV8062262');
+INSERT INTO rumah(id_rumah,luas_rumah,luas_tanah_rumah,harga_rumah,alamat_rumah,id_developer)
+    VALUES('RMH3397275',220,208,2200000000,'Cipaku, Bandung','DEV9974710');
+INSERT INTO rumah(id_rumah,luas_rumah,luas_tanah_rumah,harga_rumah,alamat_rumah,id_developer)
+    VALUES('RMH5667235',45,72,383000000,'Padalarang, Bandung','DEV1395713');
+INSERT INTO rumah(id_rumah,luas_rumah,luas_tanah_rumah,harga_rumah,alamat_rumah,id_developer)
+    VALUES('RMH0012142',150,184,1130000000,'Soekarno Hatta, Bandung','DEV9108418');
+INSERT INTO rumah(id_rumah,luas_rumah,luas_tanah_rumah,harga_rumah,alamat_rumah,id_developer)
+    VALUES('RMH7388913',36,75,375000000,'Cinunuk, Bandung Utara','DEV1657339');
+INSERT INTO rumah(id_rumah,luas_rumah,luas_tanah_rumah,harga_rumah,alamat_rumah,id_developer)
+    VALUES('RMH3243703',150,191,895000000,'Cileunyi, Bandung','DEV4095320');
+INSERT INTO rumah(id_rumah,luas_rumah,luas_tanah_rumah,harga_rumah,alamat_rumah,id_developer)
+    VALUES('RMH1112954',75,110,900000000,'Dago City View, Bandung','DEV0452963');
+INSERT INTO rumah(id_rumah,luas_rumah,luas_tanah_rumah,harga_rumah,alamat_rumah,id_developer)
+    VALUES('RMH7890671',66,134,1500000000,'Pramesta Dago, Bandung Utara','DEV0680226');
+
+	
+	
+	
+	
+INSERT INTO pegawai_bank(id_pegawai,nama_pegawai,tanggal_lahir_pegawai,alamat_pegawai,email_pegawai, no_telepon_pegawai) 
+    VALUES('PEG2336890','Darma Dwi Kurniawan','2-9-1970','Jl.Jend. A. Yani 262 RT 02/02 Bandung','darma_dwi@yahoo.com','081321768814');
+INSERT INTO pegawai_bank(id_pegawai,nama_pegawai,tanggal_lahir_pegawai,alamat_pegawai,email_pegawai, no_telepon_pegawai) 
+    VALUES('PEG2233650','Nurul Zakiyyah','10-8-1990','Kenanga Pasteur Bandung','nurul_zakiyyah@gmail.com','081288880357');
+INSERT INTO pegawai_bank(id_pegawai,nama_pegawai,tanggal_lahir_pegawai,alamat_pegawai,email_pegawai, no_telepon_pegawai) 
+    VALUES('PEG6364426','Verawati Liani Indrajaya','11-12-1997','Jl.Babakan Tarogong 244 Bandung','verawati_liani@gmail.com','081226024120');
+INSERT INTO pegawai_bank(id_pegawai,nama_pegawai,tanggal_lahir_pegawai,alamat_pegawai,email_pegawai, no_telepon_pegawai) 
+    VALUES('PEG4882670','Buana Iman Setiawan','25-1-1995','Jl. Griya Raya 1, Bandung','buana_imamm@yahoo.com','08222012905');
+INSERT INTO pegawai_bank(id_pegawai,nama_pegawai,tanggal_lahir_pegawai,alamat_pegawai,email_pegawai, no_telepon_pegawai) 
+    VALUES('PEG2347532','Buana Herman Sudjarwadi','16-1-1996','Jl. Kopo No. 519 Bandung','buana_hermawan@yahoo.com','08225400373');
+INSERT INTO pegawai_bank(id_pegawai,nama_pegawai,tanggal_lahir_pegawai,alamat_pegawai,email_pegawai, no_telepon_pegawai) 
+    VALUES('PEG7365967','Yandi Susanto Gunardi','16-2-1996','Jl. Terusan Buah Batu','yandi_gunardi@gmail.com','08227563259');
+INSERT INTO pegawai_bank(id_pegawai,nama_pegawai,tanggal_lahir_pegawai,alamat_pegawai,email_pegawai, no_telepon_pegawai) 
+    VALUES('PEG6264180','Slamet Deddy Widjaja','2-9-1980','Jl. Kebun Kacang No. 12','slamet_deddyh@gmail.com','02123580303');
+INSERT INTO pegawai_bank(id_pegawai,nama_pegawai,tanggal_lahir_pegawai,alamat_pegawai,email_pegawai, no_telepon_pegawai) 
+    VALUES('PEG9385102','Susilo Raja Johan','8-11-1973','Jl. MH. Thamrin Kav 28 -30 Plaza Indonesia Ex. Lt 3','susilobambang@yahoo.com','0212305237');
+INSERT INTO pegawai_bank(id_pegawai,nama_pegawai,tanggal_lahir_pegawai,alamat_pegawai,email_pegawai, no_telepon_pegawai) 
+    VALUES('PEG5269158','Leony Batari Jayadi','31-3-1967','Jl.Pengangsaan Tmr 1-A Wisma Financial Manulife Indonesia Lt 1.','leony1234@gmail.com','0212303228');
+INSERT INTO pegawai_bank(id_pegawai,nama_pegawai,tanggal_lahir_pegawai,alamat_pegawai,email_pegawai, no_telepon_pegawai) 
+    VALUES('PEG5667695','Dian Sugirto Setiawan','10-9-1970','Jl. Jend A Yani No. 39','diannn_sug@yahoo.com','0264313385');
+INSERT INTO pegawai_bank(id_pegawai,nama_pegawai,tanggal_lahir_pegawai,alamat_pegawai,email_pegawai, no_telepon_pegawai) 
+    VALUES('PEG9707627','Eko Widya Muljana','22-2-1984','JL. Wastukencana No. 14','eko_widya@gmail.com','0217229678');
+INSERT INTO pegawai_bank(id_pegawai,nama_pegawai,tanggal_lahir_pegawai,alamat_pegawai,email_pegawai, no_telepon_pegawai) 
+    VALUES('PEG3811561','Iman Handoko Setiawan','1-10-1984','Jl. RS Fatmawati No. 15','imam_handokow@gmail.com','0217229678');
+INSERT INTO pegawai_bank(id_pegawai,nama_pegawai,tanggal_lahir_pegawai,alamat_pegawai,email_pegawai, no_telepon_pegawai) 
+    VALUES('PEG4287434','Tirto Hadian Tanuwidjaja','9-10-1991','Jl. Jababeka 17- B Kawasan Industri Jababeka','tirto_hadinn@gmail.com','02189111742');
+INSERT INTO pegawai_bank(id_pegawai,nama_pegawai,tanggal_lahir_pegawai,alamat_pegawai,email_pegawai, no_telepon_pegawai) 
+    VALUES('PEG7818086','Devi Dian Sasmita','25-11-1984','Jl. Saturnus No. 199 Bandung','devi_dian@yahoo.com','08224230653');
+INSERT INTO pegawai_bank(id_pegawai,nama_pegawai,tanggal_lahir_pegawai,alamat_pegawai,email_pegawai, no_telepon_pegawai) 
+    VALUES('PEG8446660','Suryadi Purnama Tan','30-10-1989','Jl. Kb. Kacang Mall A Grand Indonesia BI B Lt.2/1','surtandi_tan@gmail,com','02123580238');
+INSERT INTO pegawai_bank(id_pegawai,nama_pegawai,tanggal_lahir_pegawai,alamat_pegawai,email_pegawai, no_telepon_pegawai) 
+    VALUES('PEG3168597','Ari Suhendra Kartawijaya','21-6-1985','Komp. Batununggal Indah Kav I No. 23','ari_suhendra85@gmail.com','0264310654');
+INSERT INTO pegawai_bank(id_pegawai,nama_pegawai,tanggal_lahir_pegawai,alamat_pegawai,email_pegawai, no_telepon_pegawai) 
+    VALUES('PEG6530422','Sri Fanny Susanto','5-4-1975','Kp. Cilalung 50 RT 016/06, Cikampek','sri_fanny@gmail.com','02674388809');
+INSERT INTO pegawai_bank(id_pegawai,nama_pegawai,tanggal_lahir_pegawai,alamat_pegawai,email_pegawai, no_telepon_pegawai) 
+    VALUES('PEG5927024','Lestari Vera Atmadjaja','11-2-1995','Kp. Sadang, Cikampek ','veras_vaal@gmail.com','0264313408');
+INSERT INTO pegawai_bank(id_pegawai,nama_pegawai,tanggal_lahir_pegawai,alamat_pegawai,email_pegawai, no_telepon_pegawai) 
+    VALUES('PEG7695179','Annisa Rahmawati','14-05-1996','Sukabirus Dayeuhkolot','aniisah_rahma@gmail.com','0264313488');
+INSERT INTO pegawai_bank(id_pegawai,nama_pegawai,tanggal_lahir_pegawai,alamat_pegawai,email_pegawai, no_telepon_pegawai) 
+    VALUES('PEG1687955','Utadda Hikaru','15-3-1988','Jl. Cikutra No. 99 Bandung','utadda_hikaru@gmail.com','08227276475');
+	
+	
+	
+	
+
+INSERT INTO nasabah(no_ktp_nasabah, nama_nasabah, no_rekening_nasabah, no_telp_nasabah, penghasilan_bersih_perbulan, npwp_nasabah, alamat_nasabah, jenis_kelamin_nasabah, tanggal_lahir_nasabah)
+    VALUES('3301242551','Adi Wibawa Irawan','180001093888259','02197046185',150000000,'3541748480168','JL.Pentaran No.9 Proklamasi, Jakarta Pusat 10320','L','24-12-1996');
+INSERT INTO nasabah (no_ktp_nasabah, nama_nasabah, no_rekening_nasabah, no_telp_nasabah, penghasilan_bersih_perbulan, npwp_nasabah, alamat_nasabah, jenis_kelamin_nasabah, tanggal_lahir_nasabah)
+    VALUES('3301242552','Benny Hartono Tahyadi','180001093888260','082258652368',20000000,'3541748480169','K Y Plaza ( 4th Floor), 191','L','05-05-1982');
+INSERT INTO nasabah (no_ktp_nasabah, nama_nasabah, no_rekening_nasabah, no_telp_nasabah, penghasilan_bersih_perbulan, npwp_nasabah, alamat_nasabah, jenis_kelamin_nasabah, tanggal_lahir_nasabah)
+    VALUES('3301242553','Dwi Nirmala Tedja','180001093888261','08232832251',130000000,'3541748480170','JL Perak Barat No. 22560165','P','23-09-1976');
+INSERT INTO nasabah (no_ktp_nasabah, nama_nasabah, no_rekening_nasabah, no_telp_nasabah, penghasilan_bersih_perbulan, npwp_nasabah, alamat_nasabah, jenis_kelamin_nasabah, tanggal_lahir_nasabah)
+    VALUES('3301242554','Cahya Batari Rachman','180001093888262','0218299116',1000000000,'3541748480171','Jl Tebet Brt II 9,Tebet Barat','P','26-02-1993');
+INSERT INTO nasabah (no_ktp_nasabah, nama_nasabah, no_rekening_nasabah, no_telp_nasabah, penghasilan_bersih_perbulan, npwp_nasabah, alamat_nasabah, jenis_kelamin_nasabah, tanggal_lahir_nasabah)
+    VALUES('3301242555','Ary Tri Gunawan','180001093888263','02125919264',200000000,'3541748480172','Jl HR Rasuna Said Kav X-7/6 Plaza 89 Ground Fl,Karet Kuningan','L','10-10-1988');
+INSERT INTO nasabah (no_ktp_nasabah, nama_nasabah, no_rekening_nasabah, no_telp_nasabah, penghasilan_bersih_perbulan, npwp_nasabah, alamat_nasabah, jenis_kelamin_nasabah, tanggal_lahir_nasabah)
+    VALUES('3301242556','Ivan Agus Tahyadi','180001093888264','081526842695',80000000,'3541748480173','Jl P Tubagus Angke X Kompl BBD Bl F/44-46,Jelambar','L','24-06-1972');
+INSERT INTO nasabah (no_ktp_nasabah, nama_nasabah, no_rekening_nasabah, no_telp_nasabah, penghasilan_bersih_perbulan, npwp_nasabah, alamat_nasabah, jenis_kelamin_nasabah, tanggal_lahir_nasabah)
+    VALUES('3301242557','Tanudisastro Bo Hermanto','180001093888265','084985984982',7000000,'3541748480174','Jl Orion 85, Sumatera Utara','L','30-05-1976');
+INSERT INTO nasabah (no_ktp_nasabah, nama_nasabah, no_rekening_nasabah, no_telp_nasabah, penghasilan_bersih_perbulan, npwp_nasabah, alamat_nasabah, jenis_kelamin_nasabah, tanggal_lahir_nasabah)
+    VALUES('3301242558','Ary Tri Irawan','180001093888266','089597845423',15000000,'3541748480175','jl. Jend Gatot Subroto kav. 35 - 36, jakarta 12950, Dki Jakarta','L','17-02-1994');
+INSERT INTO nasabah (no_ktp_nasabah, nama_nasabah, no_rekening_nasabah, no_telp_nasabah, penghasilan_bersih_perbulan, npwp_nasabah, alamat_nasabah, jenis_kelamin_nasabah, tanggal_lahir_nasabah)
+    VALUES('3301242559','Leony Yenny Lesmono','180001093888267','085789456123',600000000,'3541748480176','Jl. menukan gang Batik kelik 13','P','04-09-1988');
+INSERT INTO nasabah (no_ktp_nasabah, nama_nasabah, no_rekening_nasabah, no_telp_nasabah, penghasilan_bersih_perbulan, npwp_nasabah, alamat_nasabah, jenis_kelamin_nasabah, tanggal_lahir_nasabah)
+    VALUES('3301242560','Cinta Susanti Gunawan','180001093888268','084789145931',60000000,'3541748480177','	Jl. Hayam Wuruk 20 Kediri, 64121','P','27-2-1995');
+INSERT INTO nasabah (no_ktp_nasabah, nama_nasabah, no_rekening_nasabah, no_telp_nasabah, penghasilan_bersih_perbulan, npwp_nasabah, alamat_nasabah, jenis_kelamin_nasabah, tanggal_lahir_nasabah)
+    VALUES('3301242561','Buana Iman Jayadi','180001093888269','081456892547',200000000,'3541748480178','58, Shaheed Tajuddin Ahmed Sharani, Rasul Bagh','L','06-02-1971');
+INSERT INTO nasabah (no_ktp_nasabah, nama_nasabah, no_rekening_nasabah, no_telp_nasabah, penghasilan_bersih_perbulan, npwp_nasabah, alamat_nasabah, jenis_kelamin_nasabah, tanggal_lahir_nasabah)
+    VALUES('3301242562','Ade Irwan Gunardi','180001093888270','081254713201',20000000,'3541748480179','JL Ir H Juanda No. 5-A Ciputat Mas Plaza Blok BE','L','08-01-1998');
+INSERT INTO nasabah (no_ktp_nasabah, nama_nasabah, no_rekening_nasabah, no_telp_nasabah, penghasilan_bersih_perbulan, npwp_nasabah, alamat_nasabah, jenis_kelamin_nasabah, tanggal_lahir_nasabah)
+    VALUES('3301242563','Eka Dwi Hartono','180001093888271','087451203174',20000000,'3541748480180','Jl Pegangsaan Indah Brt Kompl Pondok Gading Utama Bl C/33,Pegangsaan Dua','L','19-04-1972');
+INSERT INTO nasabah (no_ktp_nasabah, nama_nasabah, no_rekening_nasabah, no_telp_nasabah, penghasilan_bersih_perbulan, npwp_nasabah, alamat_nasabah, jenis_kelamin_nasabah, tanggal_lahir_nasabah)
+    VALUES('3301242564','Bethari Sri Lesmono','180001093888272','089531013240',60000000,'3541748480181','Meherba Plaza, 33','p','06-04-1977');
+INSERT INTO nasabah (no_ktp_nasabah, nama_nasabah, no_rekening_nasabah, no_telp_nasabah, penghasilan_bersih_perbulan, npwp_nasabah, alamat_nasabah, jenis_kelamin_nasabah, tanggal_lahir_nasabah)
+    VALUES('3301242565','Sudomo Purnama Dharmawijaya','180001093888273','082420135014',10000000,'3541748480182','Jl Mangga Dua Raya Pus Komputer dan Elektronik Harco Mangga Dua Bl','L','25-09-1988');
+INSERT INTO nasabah (no_ktp_nasabah, nama_nasabah, no_rekening_nasabah, no_telp_nasabah, penghasilan_bersih_perbulan, npwp_nasabah, alamat_nasabah, jenis_kelamin_nasabah, tanggal_lahir_nasabah)
+    VALUES('3301242566','Indah Bulan Lesmono','180001093888274','082123571120',30000000,'3541748480183','Ruko Daan Mogot Baru Bl 3-A/3,Kalideres','P','28-02-1995');
+INSERT INTO nasabah (no_ktp_nasabah, nama_nasabah, no_rekening_nasabah, no_telp_nasabah, penghasilan_bersih_perbulan, npwp_nasabah, alamat_nasabah, jenis_kelamin_nasabah, tanggal_lahir_nasabah)
+    VALUES('3301242567','Mega Cahya Susanto','180001093888275','082123682000',25000000,'3541748480184','Head Office : 28/1','P','26-12-1978');
+INSERT INTO nasabah (no_ktp_nasabah, nama_nasabah, no_rekening_nasabah, no_telp_nasabah, penghasilan_bersih_perbulan, npwp_nasabah, alamat_nasabah, jenis_kelamin_nasabah, tanggal_lahir_nasabah)
+    VALUES('3301242568','Ary Tri Santoso','180001093888276','081325974201',10000000,'3541748480185','Komplek Industri dan Pergudangan Semanan Megah Blok A No.15. Daan Mogot Km.18 Jakarta Barat','L','18-01-1995');
+INSERT INTO nasabah (no_ktp_nasabah, nama_nasabah, no_rekening_nasabah, no_telp_nasabah, penghasilan_bersih_perbulan, npwp_nasabah, alamat_nasabah, jenis_kelamin_nasabah, tanggal_lahir_nasabah)
+    VALUES('3301242569','Hartanti Shinta Rachman','180001093888277','087202123542',35000000,'3541748480186','Jl.Ters.Logam kompleks H. Bardan no.294 buah batu Bandung 40287','P','19-12-1992');
+INSERT INTO nasabah (no_ktp_nasabah, nama_nasabah, no_rekening_nasabah, no_telp_nasabah, penghasilan_bersih_perbulan, npwp_nasabah, alamat_nasabah, jenis_kelamin_nasabah, tanggal_lahir_nasabah)
+    VALUES('3301242570','Tanudisastro Bo Muljana','180001093888278','087410258412',25000000,'3541748480187','Jl Komodor 45 RT 06/01,Halim Perdanakusumah','P','24-06-1973');
+	
+	
+	
+	
+	
+INSERT INTO KREDIT(kode_kredit,lama_kredit,suku_bunga_kredit,tanggal_jatuh_tempo,id_rumah) 
+    VALUES('KPR7982295',15,6,'10-11-2018','RMH2913466');
+INSERT INTO KREDIT(kode_kredit,lama_kredit,suku_bunga_kredit,tanggal_jatuh_tempo,id_rumah) 
+    VALUES('KPR6853117',15,6,'10-11-2018','RMH9639462');
+INSERT INTO KREDIT(kode_kredit,lama_kredit,suku_bunga_kredit,tanggal_jatuh_tempo,id_rumah) 
+    VALUES('KPR4688424',15,6,'10-11-2018','RMH7875533');
+INSERT INTO KREDIT(kode_kredit,lama_kredit,suku_bunga_kredit,tanggal_jatuh_tempo,id_rumah) 
+    VALUES('KPR7672084',15,6,'10-11-2018','RMH5678177');
+INSERT INTO KREDIT(kode_kredit,lama_kredit,suku_bunga_kredit,tanggal_jatuh_tempo,id_rumah) 
+    VALUES('KPR4257390',15,6,'10-11-2018','RMH9539337');
+INSERT INTO KREDIT(kode_kredit,lama_kredit,suku_bunga_kredit,tanggal_jatuh_tempo,id_rumah) 
+    VALUES('KPR8078549',15,6,'10-11-2018','RMH0705022');
+INSERT INTO KREDIT(kode_kredit,lama_kredit,suku_bunga_kredit,tanggal_jatuh_tempo,id_rumah) 
+    VALUES('KPR5580362',15,6,'10-11-2018','RMH4112328');
+INSERT INTO KREDIT(kode_kredit,lama_kredit,suku_bunga_kredit,tanggal_jatuh_tempo,id_rumah) 
+    VALUES('KPR2667145',15,6,'10-11-2018','RMH0827651');
+INSERT INTO KREDIT(kode_kredit,lama_kredit,suku_bunga_kredit,tanggal_jatuh_tempo,id_rumah) 
+    VALUES('KPR6468577',15,6,'10-11-2018','RMH9709873');
+INSERT INTO KREDIT(kode_kredit,lama_kredit,suku_bunga_kredit,tanggal_jatuh_tempo,id_rumah) 
+    VALUES('KPR6898218',15,6,'10-11-2018','RMH2975740');
+INSERT INTO KREDIT(kode_kredit,lama_kredit,suku_bunga_kredit,tanggal_jatuh_tempo,id_rumah) 
+    VALUES('KPR8639592',15,6,'10-11-2018','RMH8172034');
+INSERT INTO KREDIT(kode_kredit,lama_kredit,suku_bunga_kredit,tanggal_jatuh_tempo,id_rumah) 
+    VALUES('KPR2548214',15,6,'10-11-2018','RMH8390820');
+INSERT INTO KREDIT(kode_kredit,lama_kredit,suku_bunga_kredit,tanggal_jatuh_tempo,id_rumah) 
+    VALUES('KPR8727474',15,6,'10-11-2018','RMH7896815');
+INSERT INTO KREDIT(kode_kredit,lama_kredit,suku_bunga_kredit,tanggal_jatuh_tempo,id_rumah) 
+    VALUES('KPR9898256',15,6,'10-11-2018','RMH3397275');
+INSERT INTO KREDIT(kode_kredit,lama_kredit,suku_bunga_kredit,tanggal_jatuh_tempo,id_rumah) 
+    VALUES('KPR4557336',15,6,'10-11-2018','RMH5667235');
+INSERT INTO KREDIT(kode_kredit,lama_kredit,suku_bunga_kredit,tanggal_jatuh_tempo,id_rumah) 
+    VALUES('KPR3444470',15,6,'10-11-2018','RMH0012142');
+INSERT INTO KREDIT(kode_kredit,lama_kredit,suku_bunga_kredit,tanggal_jatuh_tempo,id_rumah) 
+    VALUES('KPR8864919',15,6,'10-11-2018','RMH7388913');
+INSERT INTO KREDIT(kode_kredit,lama_kredit,suku_bunga_kredit,tanggal_jatuh_tempo,id_rumah) 
+    VALUES('KPR9248642',15,6,'10-11-2018','RMH3243703');
+INSERT INTO KREDIT(kode_kredit,lama_kredit,suku_bunga_kredit,tanggal_jatuh_tempo,id_rumah) 
+    VALUES('KPR2027245',15,6,'10-11-2018','RMH1112954');
+INSERT INTO KREDIT(kode_kredit,lama_kredit,suku_bunga_kredit,tanggal_jatuh_tempo,id_rumah) 
+    VALUES('KPR4681248',15,6,'10-11-2018','RMH7890671');
+	
+
+	
+	
+INSERT INTO transaksi(kode_transaksi,tanggal_transaksi,pembayaran_ke,kode_kredit,no_ktp_nasabah,id_pegawai)
+    VALUES('HKF3NG98LH','1-11-2018','1','KPR7982295','3301242551','PEG2336890');
+INSERT INTO transaksi(kode_transaksi,tanggal_transaksi,pembayaran_ke,kode_kredit,no_ktp_nasabah,id_pegawai)
+    VALUES('QLOZ5SII0C','6-11-2018','1','KPR6853117','3301242552','PEG2233650');
+INSERT INTO transaksi(kode_transaksi,tanggal_transaksi,pembayaran_ke,kode_kredit,no_ktp_nasabah,id_pegawai)
+    VALUES('LLZBY7SIMO','3-11-2018','1','KPR4688424','3301242553','PEG6364426');
+INSERT INTO transaksi(kode_transaksi,tanggal_transaksi,pembayaran_ke,kode_kredit,no_ktp_nasabah,id_pegawai)
+    VALUES('A2T7JB67SQ','6-11-2018','1','KPR7672084','3301242554','PEG4882670');
+INSERT INTO transaksi(kode_transaksi,tanggal_transaksi,pembayaran_ke,kode_kredit,no_ktp_nasabah,id_pegawai)
+    VALUES('KUMOB36MG0','9-11-2018','1','KPR4257390','3301242555','PEG2347532');
+INSERT INTO transaksi(kode_transaksi,tanggal_transaksi,pembayaran_ke,kode_kredit,no_ktp_nasabah,id_pegawai)
+    VALUES('P2G43WVN5C','8-11-2018','1','KPR8078549','3301242556','PEG7365967');
+INSERT INTO transaksi(kode_transaksi,tanggal_transaksi,pembayaran_ke,kode_kredit,no_ktp_nasabah,id_pegawai)
+    VALUES('S7S3B33FNN','3-11-2018','1','KPR5580362','3301242557','PEG6264180');
+INSERT INTO transaksi(kode_transaksi,tanggal_transaksi,pembayaran_ke,kode_kredit,no_ktp_nasabah,id_pegawai)
+    VALUES('T32GC840DA','6-11-2018','1','KPR2667145','3301242558','PEG9385102');
+INSERT INTO transaksi(kode_transaksi,tanggal_transaksi,pembayaran_ke,kode_kredit,no_ktp_nasabah,id_pegawai)
+    VALUES('NLVNWHGDDI','1-11-2018','1','KPR6468577','3301242559','PEG5269158');
+INSERT INTO transaksi(kode_transaksi,tanggal_transaksi,pembayaran_ke,kode_kredit,no_ktp_nasabah,id_pegawai)
+    VALUES('HO946TECDS','6-11-2018','1','KPR6898218','3301242560','PEG5667695');
+INSERT INTO transaksi(kode_transaksi,tanggal_transaksi,pembayaran_ke,kode_kredit,no_ktp_nasabah,id_pegawai)
+    VALUES('X0JT32GIAR','4-11-2018','1','KPR8639592','3301242561','PEG9707627');
+INSERT INTO transaksi(kode_transaksi,tanggal_transaksi,pembayaran_ke,kode_kredit,no_ktp_nasabah,id_pegawai)
+    VALUES('E5OWIU91ZF','1-11-2018','1','KPR2548214','3301242562','PEG3811561');
+INSERT INTO transaksi(kode_transaksi,tanggal_transaksi,pembayaran_ke,kode_kredit,no_ktp_nasabah,id_pegawai)
+    VALUES('X1460VLGOL','8-11-2018','1','KPR8727474','3301242563','PEG4287434');
+INSERT INTO transaksi(kode_transaksi,tanggal_transaksi,pembayaran_ke,kode_kredit,no_ktp_nasabah,id_pegawai)
+    VALUES('3LBWXCREVX','1-11-2018','1','KPR9898256','3301242564','PEG7818086');
+INSERT INTO transaksi(kode_transaksi,tanggal_transaksi,pembayaran_ke,kode_kredit,no_ktp_nasabah,id_pegawai)
+    VALUES('9MUN3Z3BQT','1-11-2018','1','KPR4557336','3301242565','PEG8446660');
+INSERT INTO transaksi(kode_transaksi,tanggal_transaksi,pembayaran_ke,kode_kredit,no_ktp_nasabah,id_pegawai)
+    VALUES('C0U639PJ07','9-11-2018','1','KPR3444470','3301242566','PEG3168597');
+INSERT INTO transaksi(kode_transaksi,tanggal_transaksi,pembayaran_ke,kode_kredit,no_ktp_nasabah,id_pegawai)
+    VALUES('JOR8BED7JL','9-11-2018','1','KPR8864919','3301242567','PEG6530422');
+INSERT INTO transaksi(kode_transaksi,tanggal_transaksi,pembayaran_ke,kode_kredit,no_ktp_nasabah,id_pegawai)
+    VALUES('JN3N43DCW4','2-11-2018','1','KPR9248642','3301242568','PEG5927024');
+INSERT INTO transaksi(kode_transaksi,tanggal_transaksi,pembayaran_ke,kode_kredit,no_ktp_nasabah,id_pegawai)
+    VALUES('J9CC8YKLEU','3-11-2018','1','KPR2027245','3301242569','PEG7695179');
+INSERT INTO transaksi(kode_transaksi,tanggal_transaksi,pembayaran_ke,kode_kredit,no_ktp_nasabah,id_pegawai)
+    VALUES('KB2PH5XDPD','5-11-2018','1','KPR4681248','3301242570','PEG1687955');
